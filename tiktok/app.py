@@ -15,10 +15,10 @@ async def main():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>TikTok Video Downloader</title>
+        <title>YouTube and TikTok Video Downloader</title>
     </head>
     <body>
-        <h1>Enter TikTok Video URL</h1>
+        <h1>Enter Your Video URL</h1>
         <form action="/download/" method="post">
             <input type="text" name="url" required>
             <input type="submit" value="Download">
